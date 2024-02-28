@@ -26,7 +26,7 @@ export default function UpcomingWebinars() {
 }
 
 
-export const featuredWebinars = [
+const featuredWebinars = [
   {
     title: 'Understanding Music Theory',
     description:
