@@ -1,4 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Simple Music-Course-selling website with nextJS
+
+This is the simple music course selling website by Chai aur Code on youtube on NextJS tutorial.
+
+This website rely hugely on [Acertinity UI](https://www.aceternity.com/components) for UI components.
+
+This [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
